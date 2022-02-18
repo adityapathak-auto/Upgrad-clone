@@ -6,13 +6,13 @@ Through this blog, I am going to share my journey of working on a team project a
 
 Team Members and their contributions:
 
-Ashish Shaw: I created the Product details page with the help of HTML, CSS and Javascript. In addition to it I also created the Billing page with the same tools as in product details page.
+Ashish Shaw:  Created the Product details page with the help of HTML, CSS and Javascript. In addition to it I also created the Billing page with the same tools as in product details page.
 
 Sarthak Bakshi: created the Product page and Database Section.
 
 Ashutosh Swaraj: created Payment page with local storage connectivity.
 
-Aditya Pathak: created Login and SignUp page with local storage connectivity.
+Aditya Pathak: I created Login and SignUp page with local storage connectivity.
 
 Sheelu: created Homepage with sticky Product Section, Footer, Navbar, Sliders.
 
